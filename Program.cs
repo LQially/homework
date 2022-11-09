@@ -4,7 +4,7 @@ Console.Write("Hello" + " " + "World!!!\n"); //2 Задание
 
 Console.Write("Hello" + " " + "World!!! \nBye!\n"); //2 Задание под звёздочкой (надеюсь правильно понял смысл задания)
 
-string fullName = "Кисленко Алексей Юрьевич";
+string fullName = "";
 int old = 18;
 string number = "+7 (914) 123-123-21";
 string email = "test@joy.ty";
